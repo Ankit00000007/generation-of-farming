@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  font-family: 'Urbanist', sans-serif;
+}
+
+.App{
+  /* text-align: center; */
+}
+
+:root {
+  --ec-theme-clr: #9ab831;
+  --ec-theme-hover: #8ba72c;
+  --ec-light-bg-theme: #a5c232;
+  --ec-gold: gold;
+  --ec-light-gold: #ffd044;
+  --ec-white: #fff;
+  --ec-light-grey: #bbb;
+  --ec-dark-gray: #333333;
+  --ec-section-bg-clr: #f3f4f6;
+  --ec-section-bg-hover: #e5e7eb;
+  --ec-cart-text-clr: #6b7280;
+  --ec-black: #000000;
+  --ec-black-light: #0f0f0f;
+  --img-overlay-clr: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+  --img-overlay-clr1: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  --ec-nav-link-clr: #374151;
+  --cart-dlt-btn-hover: #dc2626;
+  --cart-dlt-btn-clr: #ef4444;
+  --ec-border-top: #e5e7eb;
+  --ec-box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  --ec-green-shadow: 0 4px 15px rgba(152, 199, 60, 0.3);
+  --ec-dark-green: #006400;
+  --ec-light-green1: #0fa10f;
+  --ec-light-green: #90ee90;
+}
+
+
